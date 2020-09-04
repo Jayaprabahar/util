@@ -66,7 +66,7 @@ public final class CollectionsUtil {
 	 * @param sourceList
 	 * @return
 	 */
-	public static Object getFirstObjectFromList(Set sourceList) {
+	public static Object getFirstObjectFromSet(Set sourceList) {
 		return CollectionUtils.isEmpty(sourceList) ? null : sourceList.iterator().next();
 	}
 
