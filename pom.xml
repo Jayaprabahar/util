@@ -72,7 +72,7 @@
 		<dependency>
 			<groupId>org.infinispan</groupId>
 			<artifactId>infinispan-core</artifactId>
-			<version>14.0.25.Final</version>
+			<version>14.0.34.Final</version>
 		</dependency>
 
 		<dependency>
